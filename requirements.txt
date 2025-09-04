@@ -1,0 +1,6 @@
+asyncpg==0.30.0
+Faker==37.6.0
+greenlet==3.2.4
+SQLAlchemy==2.0.43
+typing_extensions==4.15.0
+tzdata==2025.2
